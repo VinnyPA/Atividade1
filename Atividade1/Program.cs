@@ -25,10 +25,10 @@ namespace Atividade1
             Console.WriteLine("Digite a nota da segunda prova: ");
             n2 = Convert.ToInt32(Console.ReadLine());
 
-            media = (ntrabalho + n1 + n2) / 3;/*dad*/
+            media = (ntrabalho + n1 + n2) / 3;
 
             
-              
+            
 
             Console.ReadKey();
         }
